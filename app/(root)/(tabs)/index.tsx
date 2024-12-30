@@ -11,10 +11,6 @@ export default function Index() {
       }}
     >
       <Text className=" text-2xl my-5 font-rubik-light">Abinesh Srinivasan</Text>
-      <Link href="/sign-in">Sign-in</Link>
-      <Link href="/explore">Explore</Link>
-      <Link href="/profile">Profile</Link>
-      <Link href="/Properties/1">Property</Link>
     </View>
   );
 }
